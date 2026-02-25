@@ -9,7 +9,7 @@ export const projects = [
     title: "Design of an IoT-Based Long-Term Monitoring System for Temperature and Dissolved Oxygen in Lake Toba Using LoRa",
     description:
       "A LoRa-based IoT system for real-time and continuous monitoring of temperature and dissolved oxygen (DO) levels in Lake Toba. Data is transmitted via LoRa communication and visualized through both Grafana and custom-built dashboards.",
-    thumbnail: "public/monitoring.png",
+    thumbnail: "/projects/monitoring.png",
     category: "IoT",
     link: "https://github.com/arizona-15/myportfolio/tree/main/Final%20Project",
   },
@@ -18,7 +18,7 @@ export const projects = [
     title: "Automatic Bird Pest Detection and Repelling System",
     description:
       "An automated system utilizing PIR sensors, ultrasonic sound, and LoRa communication to detect and repel bird pests in agricultural areas. When one node detects movement, both nodes activate simultaneously and trigger the repelling devices.",
-    thumbnail: "public/embedded_project.png",
+    thumbnail: "/projects/embedded_project.png",
     category: "IoT",
     link: "https://github.com/arizona-15/myportfolio/tree/main/Last%20Year%20Project%20II",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "Automatic Soil Moisture-Based Irrigation System",
     description:
       "An automatic irrigation system based on soil moisture sensors. When moisture levels fall below a predefined threshold, a relay activates the water pump until the soil moisture returns to an optimal level.",
-    thumbnail: "public/irrigation.png",
+    thumbnail: "/projects/irrigation.png",
     category: "Embedded System",
     link: "https://github.com/arizona-15/myportfolio/tree/main/Embedded%20system%20Project",
   },
@@ -36,7 +36,7 @@ export const projects = [
     title: "Hema Beauty Salon Static Website",
     description:
       "A static website for Hema Beauty Salon showcasing the business profile, services, and photo gallery with a responsive design.",
-    thumbnail: "public/salon_websire.png",
+    thumbnail: "/projects/salon_websire.png",
     category: "Web Development",
     link: "https://github.com/arizona-15/myportfolio/tree/main/Last%20Year%20Project%20I",
   },

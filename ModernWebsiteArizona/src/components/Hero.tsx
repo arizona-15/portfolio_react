@@ -23,7 +23,7 @@ export default function Hero() {
             <div className="relative">
               <div className="absolute inset-0 bg-blue-600 rounded-full blur-2xl opacity-20"></div>
               <ImageWithFallback
-                src="public/foto_profil-kece.jpg"
+                src="/icon/foto_profil-kece.jpg"
                 alt="Arizona Damanik"
                 className="relative w-64 h-64 md:w-80 md:h-80 rounded-full object-cover shadow-2xl border-4 border-white"
               />
